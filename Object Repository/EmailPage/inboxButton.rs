@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>inboxButton</name>
+   <tag></tag>
+   <elementGuidId>91f093cd-d9f5-4c33-9e58-d0603780ea13</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@class='abv-foldersTable']//*[@class='fl']/text()[normalize-space(.)='Кутия']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class='abv-foldersTable']//*[@class='fl']/text()[normalize-space(.)='Кутия']</value>
+   </webElementProperties>
+</WebElementEntity>

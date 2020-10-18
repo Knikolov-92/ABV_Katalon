@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Error_When_NoUsername</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f81d0668-e3f7-4a07-b9ee-0bc05cfa898f</testCaseGuid>
+</TestCaseEntity>

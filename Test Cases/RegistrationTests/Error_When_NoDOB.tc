@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Error_When_NoDOB</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c7b122a0-a3fa-4920-83d2-c9688aea8240</testCaseGuid>
+</TestCaseEntity>

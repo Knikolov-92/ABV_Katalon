@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>EmailCorrectlyReceived_When_SentToInbox</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a7cc7e9b-e34e-4699-9acc-ca0e72a47878</testCaseGuid>
+</TestCaseEntity>

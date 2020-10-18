@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Error_When_NoFirstName</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>497e4d06-4d81-4702-9954-6863c74f0908</testCaseGuid>
+</TestCaseEntity>

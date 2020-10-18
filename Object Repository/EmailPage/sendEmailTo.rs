@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>sendEmailTo</name>
+   <tag></tag>
+   <elementGuidId>bb882aed-ba4b-4546-bf96-1966b3a04a79</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@type='text'] [@class='fl'][1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input.fl</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fl</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/div[1]/div[4]/div[1]/div[4]/div[@class=&quot;gwt-SplitLayoutPanel&quot;]/div[4]/div[1]/div[2]/div[@class=&quot;sendPageWrapper&quot;]/div[2]/div[1]/div[@class=&quot;mailMessageFields&quot;]/div[@class=&quot;mailFieldsContainer&quot;]/table[1]/tbody[1]/tr[2]/td[@class=&quot;clientField&quot;]/div[1]/input[@class=&quot;fl&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@type='text'] [@class='fl'][1]</value>
+   </webElementXpaths>
+</WebElementEntity>

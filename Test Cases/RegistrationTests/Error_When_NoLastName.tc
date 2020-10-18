@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Error_When_NoLastName</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>08c08f7b-29e4-4f5c-80d8-8df01f3b59ec</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Error_When_NoCAPTCHA</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d6534896-f047-4da3-abb3-cfeb8af42bbc</testCaseGuid>
+</TestCaseEntity>

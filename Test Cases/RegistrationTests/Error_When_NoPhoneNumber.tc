@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Error_When_NoPhoneNumber</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>71f9c2cd-48fd-4b87-97bf-691c024722d6</testCaseGuid>
+</TestCaseEntity>
